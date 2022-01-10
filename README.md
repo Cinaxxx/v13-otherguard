@@ -1,4 +1,4 @@
-```
+
 # 50 Star - 15 Fork Paylaşılcak ( Fork ve Star arttıkça güncelleme gelecektir )
 
 Merhabalar öncelikte belirteyim, backup guard değildir.
@@ -40,4 +40,4 @@ Doldurduktan sonra ; modul.bat cmd başlatarak modülleri yüklemesinin ardında
     - [x] Oluşturma
     - [x] Güncelleme
     - [x] Silme
-```
+
